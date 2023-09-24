@@ -7,5 +7,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##Este es un pequeño CRUD de Laravel.
+<p align="center">Este es un pequeño CRUD de Laravel.</p>
 En el se permite agregar clientes con un nombre, un precio o deuda del cliente, y una descripcion para mayor informacion del mismo.
